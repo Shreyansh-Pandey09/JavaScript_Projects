@@ -16,6 +16,7 @@ This repository contains a collection of beginner to intermediate JavaScript pro
 8. 👆 Click Counter
 9. 📝 To-Do List
 10. 🧠 Quiz
+11. 🔐 OTP & Password Generator
 
 ## 🛠️ Technologies Used
 
